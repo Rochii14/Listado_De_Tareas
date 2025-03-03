@@ -58,7 +58,7 @@
         <header></header>
         <main class="container"> <!--Agregar  tarea -->
             <div class="card">
-                <div class="card-header"><h1 class="titulo">Listar de tareas</h1></div>
+                <div class="card-header"><h1 class="titulo">Listar tareas</h1></div>
                 <!-- ------------------------------CREAR LA TAREA------------------------------ -->
                 <div class="mb-3">
                     <form action="" method="post" class="formulario">
